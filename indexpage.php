@@ -1,0 +1,1 @@
+<?php include_once("ex1.html") ?>
